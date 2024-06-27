@@ -1,0 +1,5 @@
+{
+    "open":"plugins.open_program",
+    "search the internet for":"plugins.search_in_browser",
+    "weather in":"plugins.weather"
+}
